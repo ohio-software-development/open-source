@@ -1,0 +1,4 @@
+[submodule "Checkers"]
+	path = Checkers
+	url = git@github.com:ohio-software-development/Checkers.git
+	branch = main
