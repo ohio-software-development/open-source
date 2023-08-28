@@ -1,2 +1,4 @@
-# open-source
-A collection of all of OUSDC's "open source" repositories. These repositories are simple projects that are great for new members to jump into. Make small tweaks or add whole new features
+# Checkers
+## Open Source Checkers
+
+This repository is open to all members of the club, feel free to add move functionalitys, change colors, create new modes, add AI, or add new folders with different versions of the program (Python version vs Web version) 
