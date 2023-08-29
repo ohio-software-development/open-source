@@ -1,0 +1,48 @@
+[submodule "Checkers"]
+	path = Checkers
+	url = git@github.com:ohio-software-development/Checkers.git
+	branch = main
+[submodule "2DPlatformer_Unity"]
+	path = 2DPlatformer_Unity
+	url = git@github.com:ohio-software-development/2DPlatformer_Unity.git
+	branch = main
+[submodule "3DBrowser_Unity"]
+	path = 3DBrowser_Unity
+	url = git@github.com:ohio-software-development/3DBrowser_Unity.git
+	branch = main
+[submodule "Login-Menu-Web"]
+	path = Login-Menu-Web
+	url = git@github.com:ohio-software-development/Login-Menu-Web.git
+	branch = main
+[submodule "Stock_App"]
+	path = Stock_App
+	url = git@github.com:ohio-software-development/Stock_App.git
+	branch = main
+[submodule "Price_Tracker"]
+	path = Price_Tracker
+	url = git@github.com:ohio-software-development/Price_Tracker.git
+	branch = main
+[submodule "Fitness-Watch-App"]
+	path = Fitness-Watch-App
+	url = git@github.com:ohio-software-development/Fitness-Watch-App.git
+	branch = main
+[submodule "Minecraft-Ohio-Mod"]
+	path = Minecraft-Ohio-Mod
+	url = git@github.com:ohio-software-development/Minecraft-Ohio-Mod.git
+	branch = main
+[submodule "AR-Kinect"]
+	path = AR-Kinect
+	url = git@github.com:ohio-software-development/AR-Kinect.git
+	branch = main
+[submodule "VR-OUSDC-Lounge"]
+	path = VR-OUSDC-Lounge
+	url = git@github.com:ohio-software-development/VR-OUSDC-Lounge.git
+	branch = main
+[submodule "Bobcat-Language"]
+	path = Bobcat-Language
+	url = git@github.com:ohio-software-development/Bobcat-Language.git
+	branch = main
+[submodule "BobcatCoin"]
+	path = BobcatCoin
+	url = git@github.com:ohio-software-development/BobcatCoin.git
+	branch = main
