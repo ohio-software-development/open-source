@@ -46,3 +46,7 @@
 	path = BobcatCoin
 	url = git@github.com:ohio-software-development/BobcatCoin.git
 	branch = main
+[submodule "Chess"]
+	path = Chess
+	url = https://github.com/ohio-software-development/Chess.git
+	branch = main
