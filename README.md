@@ -1,4 +1,10 @@
-# Checkers
-## Open Source Checkers
+# Open Source
 
-This repository is open to all members of the club, feel free to add move functionalitys, change colors, create new modes, add AI, or add new folders with different versions of the program (Python version vs Web version) 
+## Link
+https://github.com/ohio-software-development/open-source
+
+## Description
+Collection of open source projects
+
+
+
